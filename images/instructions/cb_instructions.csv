@@ -1,0 +1,33 @@
+﻿CB,Shape,Task,E,Correct,Rule,Slide1,Slide2,Slide3
+1, Hex,ParL,O,CorrAns1,ParLHexO,ParLHexO1,ParLHexO2,ParLHexO3
+1, Cir,ParG,O,CorrAns1,ParGCirO,ParGCirO1,ParGCirO2,ParGCirO3
+1,Squ, MagL,S,CorrAns1,MagLSquS,MagLSquS1,MagLSquS2,MagLSquS3
+1,Sem, MagG,S,CorrAns1,MagGSemS,MagGSemS1,MagGSemS2,MagGSemS3
+2, Hex,ParL,E,CorrAns2,ParLHexE,ParLHexE1,ParLHexE2,ParLHexE3
+2, Cir,ParG,E,CorrAns2,ParGCirE,ParGCirE1,ParGCirE2,ParGCirE3
+2,Squ, MagL,L,CorrAns2,MagLSquL,MagLSquL1,MagLSquL2,MagLSquL3
+2,Sem, MagG,L,CorrAns2,MagGSemL,MagGSemL1,MagGSemL2,MagGSemL3
+3, Hex, MagG,S,CorrAns1,MagGHexS,MagGHexS1,MagGHexS2,MagGHexS3
+3, Cir, MagL,S,CorrAns1,MagLCirS,MagLCirS1,MagLCirS2,MagLCirS3
+3,Squ,ParG,O,CorrAns1,ParGSquO,ParGSquO1,ParGSquO2,ParGSquO3
+3,Sem,ParL,O,CorrAns1,ParLSemO,ParLSemO1,ParLSemO2,ParLSemO3
+4, Hex, MagG,L,CorrAns2,MagGHexL,MagGHexL1,MagGHexL2,MagGHexL3
+4, Cir, MagL,L,CorrAns2,MagLCirL,MagLCirL1,MagLCirL2,MagLCirL3
+4,Squ,ParG,E,CorrAns2,ParGSquE,ParGSquE1,ParGSquE2,ParGSquE3
+4,Sem,ParL,E,CorrAns2,ParLSemE,ParLSemE1,ParLSemE2,ParLSemE3
+5, Hex,ParG,O,CorrAns1,ParGHexO,ParGHexO1,ParGHexO2,ParGHexO3
+5, Cir, MagG,O,CorrAns1,MagGCirO,MagGCirO1,MagGCirO2,MagGCirO3
+5,Squ,ParL,S,CorrAns1,ParLSquS,ParLSquS1,ParLSquS2,ParLSquS3
+5,Sem, MagL,S,CorrAns1,MagLSemS,MagLSemS1,MagLSemS2,MagLSemS3
+6, Hex,ParG,E,CorrAns2,ParGHexE,ParGHexE1,ParGHexE2,ParGHexE3
+6, Cir, MagG,E,CorrAns2,MagGCirE,MagGCirE1,MagGCirE2,MagGCirE3
+6,Squ,ParL,L,CorrAns2,ParLSquL,ParLSquL1,ParLSquL2,ParLSquL3
+6,Sem, MagL,L,CorrAns2,MagLSemL,MagLSemL1,MagLSemL2,MagLSemL3
+7, Hex, MagL,S,CorrAns1,MagLHexS,MagLHexS1,MagLHexS2,MagLHexS3
+7, Cir,ParL,S,CorrAns1,ParLCirS,ParLCirS1,ParLCirS2,ParLCirS3
+7,Squ, MagG,O,CorrAns1,MagGSquO,MagGSquO1,MagGSquO2,MagGSquO3
+7,Sem,ParG,O,CorrAns1,ParGSemO,ParGSemO1,ParGSemO2,ParGSemO3
+8, Hex, MagL,L,CorrAns2,MagLHexL,MagLHexL1,MagLHexL2,MagLHexL3
+8, Cir,ParL,L,CorrAns2,ParLCirL,ParLCirL1,ParLCirL2,ParLCirL3
+8,Squ, MagG,E,CorrAns2,MagGSquE,MagGSquE1,MagGSquE2,MagGSquE3
+8,Sem,ParG,E,CorrAns2,ParGSemE,ParGSemE1,ParGSemE2,ParGSemE3

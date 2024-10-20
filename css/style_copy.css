@@ -1,0 +1,99 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-weight: 300; 
+  font-size: 24pt; /* Increased font size */
+}
+
+#container {
+position: relative;
+width: 800px; /* Increased container size */
+height: 800px; /* Increased container size */
+margin: 0 auto; /* Center the container horizontally */
+display: flex;
+align-items: center; /* Center vertically */
+justify-content: center; /* Center horizontally */
+}
+#main_image {
+position: absolute;
+width: 100%;
+height: 100%;
+}
+#overlay_image {
+position: absolute;
+width: 90%; /* Increased overlay image size */
+height: 90%; /* Increased overlay image size */
+}
+
+/* text styling */
+strong {
+font-weight: 1000;         
+}
+
+.warm {
+color: steelblue;
+text-align: justify;
+}
+
+.cool {
+color: #ccccff;
+}
+
+h1 {
+margin-top: 0;
+font-size: 36pt; /* Increased font size for h1 */
+}
+
+
+/* these are all the same for now, but easy to modify individually */
+#container-not-an-ad, #container-error, #container-exp, #container-consent, #container-instructions, #container-questionnaire {
+  background: black;
+  margin: 30px;
+}
+
+/* ad.html  - the ad that people view first */
+#adlogo {
+  width: 200px; /* Increased logo size */
+  padding: 2px;
+  border: 1px solid #ccc;
+  margin-right: 1em;
+}
+
+/* consent.html - the consent form */
+#consent {
+margin: 0 auto;
+margin-top: 0;
+width: 1000px; /* Increased width */
+font-size: 110%; /* Increased font size */
+}
+
+.legal {
+text-align: justify;
+font-size: 14pt; /* Increased font size */
+line-height: 1.2em;
+}
+
+#trial {
+margin: 0 auto;
+width: 1000px; /* Increased width */
+text-align: center;
+}
+
+#query {
+color: darkgray;
+font-size: 20pt; /* Increased font size */
+}
+
+.question {
+margin-bottom: 30px;
+font-size: 22pt; /* Increased font size */
+}
+
+/* errors */
+#error img {
+padding-right: 10px;
+padding-top: 15px;
+width: 200px; /* Increased image size */
+}
